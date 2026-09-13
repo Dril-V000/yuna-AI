@@ -11,10 +11,9 @@
 [![License](https://img.shields.io/badge/license-Proprietary%20%F0%9F%94%92-red?style=for-the-badge)](./LICENSE)
 [![Price](https://img.shields.io/badge/from-%2410%20USDT-34d399?style=for-the-badge)](https://your-website.com/pricing)
 
-*Voice conversations · Real-time animation · Full local privacy*
 ## 🌸 Get Yuna 🌸
-[**Website**](https://your-website.com) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt) 
-[**Website**](https://your-website.com) · [**Download**]([https://github.com/Code-7/yuna/releases](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v)) ·
+
+[**Website**](https://your-website.com) · [**Download**](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt)
 </div>
 
 ---
