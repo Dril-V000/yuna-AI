@@ -28,7 +28,25 @@
 - 🎨 **Custom characters & backgrounds** — Yuna, Haru, or build your own
 - 🔒 **100% private** — no telemetry, no cloud, no subscription
 - ⚡ **Runs on modest hardware** — no GPU required
+## 📸 See YUNA in Action
 
+<div align="center">
+
+### 🌸 Everyday Mode — Cozy Room
+
+<img src="./preview/pink-room.png" alt="YUNA in a cozy pink room" width="900">
+
+*Warm, friendly, and always happy to help*
+
+<br><br>
+
+### 🌃 Cyberpunk Mode — Futuristic Hub
+
+<img src="./preview/cyberpunk-room.png" alt="YUNA in a cyberpunk environment" width="900">
+
+*Advanced AI meets beautiful design*
+
+</div>
 ---
 
 ## 🚀 Quick Start
