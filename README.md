@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.1.2-64b5f6?style=for-the-badge)](https://github.com/Code-7/yuna/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary%20%F0%9F%94%92-red?style=for-the-badge)](./LICENSE)
 [![Price](https://img.shields.io/badge/from-%2410%20USDT-34d399?style=for-the-badge)](https://your-website.com/pricing)
 
 *Voice conversations · Real-time animation · Full local privacy*
