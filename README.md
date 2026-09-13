@@ -11,7 +11,7 @@
 
 ## 🌸 Get Yuna 🌸
 
-[**Website**](https://your-website.com) · [**Download**](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt)
+[**Website**](https://dril-v000.github.io/yuna-website) · [**Download**](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt)
 
 </div>
 
