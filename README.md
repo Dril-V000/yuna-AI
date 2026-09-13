@@ -3,6 +3,7 @@
 # 🌸 YUNA
 
 **Your Local AI Companion with a Living Face**
+[**Website**](https://your-website.com) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt) 
 
 [![Version](https://img.shields.io/badge/version-1.1.2-64b5f6?style=for-the-badge)](https://github.com/Code-7/yuna/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
