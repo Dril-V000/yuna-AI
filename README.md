@@ -83,7 +83,7 @@
 |-----------|-------------|--------|
 | 🌸 **Yuna** | Warm, curious, expressive | ✅ Built-in |
 | 🌿 **Haru** | Calm, measured, reliable | ✅ Built-in |
-| ✨ **Custom** | Your own creation | ✅ Full support |
+| ✨ **Custom** | Your own creation | ❌ coming soon |
 
 Three conversation modes: **Smart**, **Fun**, and **Professional** — each with distinct tone and behavior.
 
