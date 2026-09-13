@@ -4,9 +4,7 @@
 
 **Your Local AI Companion with a Living Face**
 
-
-
-[![Version](https://img.shields.io/badge/version-1.1.2-64b5f6?style=for-the-badge)](https://github.com/Code-7/yuna/releases)
+[![Version](https://img.shields.io/badge/version-1.1.2-64b5f6?style=for-the-badge)](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-Proprietary%20%F0%9F%94%92-red?style=for-the-badge)](./LICENSE)
 [![Price](https://img.shields.io/badge/from-%2410%20USDT-34d399?style=for-the-badge)](https://your-website.com/pricing)
@@ -14,6 +12,7 @@
 ## 🌸 Get Yuna 🌸
 
 [**Website**](https://your-website.com) · [**Download**](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v) · [**Discord**](https://discord.gg/vkmP6uKy7) · [**YouTube**](https://www.youtube.com/@code7kjt)
+
 </div>
 
 ---
@@ -28,6 +27,9 @@
 - 🎨 **Custom characters & backgrounds** — Yuna, Haru, or build your own
 - 🔒 **100% private** — no telemetry, no cloud, no subscription
 - ⚡ **Runs on modest hardware** — no GPU required
+
+---
+
 ## 📸 See YUNA in Action
 
 <div align="center">
@@ -47,6 +49,7 @@
 *Advanced AI meets beautiful design*
 
 </div>
+
 ---
 
 ## 🚀 Quick Start
@@ -64,7 +67,7 @@
 
 ### Installation
 
-1. **Download** the latest `YUNA-v1.1.2.zip` from [Releases](https://github.com/Code-7/yuna/releases)
+1. **Download** the latest `YUNA-v1.1.2.zip` from [Releases](https://github.com/Dril-V000/yuna-AI/releases/tag/1.1.2v)
 2. **Extract** the archive anywhere (e.g., `C:\YUNA\`)
 3. **Install [Ollama](https://ollama.com/download)** if you haven't already
 4. **Run `YUNA.exe`** — she handles the rest automatically:
@@ -83,7 +86,8 @@
 |-----------|-------------|--------|
 | 🌸 **Yuna** | Warm, curious, expressive | ✅ Built-in |
 | 🌿 **Haru** | Calm, measured, reliable | ✅ Built-in |
-| ✨ **Custom** | Your own creation | ❌ coming soon |
+| ✨ **Custom** | Your own creation | ✅ Full support |
+| ✨ **Custom Live2D** | Upload your own model | ❌ Coming soon |
 
 Three conversation modes: **Smart**, **Fun**, and **Professional** — each with distinct tone and behavior.
 
