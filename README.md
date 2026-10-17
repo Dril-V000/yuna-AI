@@ -67,25 +67,28 @@ Actual performance depends on your hardware, selected AI model, and voice config
 
 ## 📥 Installation
 
-1. Download YUNA from the [official v1.2 release page](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v).
-2. Extract the downloaded archive.
-3. Install [Ollama](https://ollama.com/download) if you want to use local AI.
-4. Launch `YUNA.exe`.
-5. Follow the setup and license activation instructions.
-6. Select your AI model and preferred voice.
+Getting started with YUNA is simple. The app guides you through the setup process automatically.
 
-The first launch may require internet access for license activation and model downloads.
+1. **Download YUNA** from the [official v1.2 release page](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v).
+2. **Extract the downloaded archive** to a folder on your PC.
+3. **Launch `YUNA.exe`** and follow the on-screen instructions.
+4. **Install Ollama:** if Ollama is not installed, YUNA automatically opens the official Ollama download page so you can install it.
+5. **Choose your AI model:** YUNA displays a list of available local AI models.
+6. **Automatic model download:** select a model, and YUNA downloads it automatically for you.
+7. **Start chatting!** Once setup is complete, enjoy voice conversations with your animated AI companion.
 
-### Recommended Ollama Models
+### 🤖 Recommended Local AI Models
 
 | Model | Best For |
 |---|---|
-| `qwen2.5:3b` | Lower-memory systems |
-| `qwen2.5:7b` | Balance of quality and resource usage |
+| `qwen2.5:3b` | Lower-memory PCs and faster responses |
+| `qwen2.5:7b` | A balance of response quality and performance |
 | `llama3.1:8b` | General conversation and reasoning |
 | `gemma2:9b` | Writing and conversational tasks |
 
-These are suggested models, not guaranteed performance levels. Availability depends on your hardware and YUNA configuration.
+**Tip:** If your PC has limited RAM or a weaker CPU, start with a smaller model such as `qwen2.5:3b`. Larger models generally require more resources and may respond more slowly.
+
+**Note:** An internet connection is required during initial setup to download Ollama, the selected AI model, and any required components. Once everything is installed, local AI conversations can work offline, provided all required local services are available.
 
 ## 🎭 Characters
 
