@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Last Updated:** September 13, 2026
-**Effective Date:** September 13, 2026
+**Last Updated:** October 17, 2026
+**Effective Date:** October 17, 2026
 
 Welcome to **YUNA** ("the Software", "the Service"), operated by **Code-7** ("we", "us", "our"). These Terms of Service ("Terms") govern your access to and use of the YUNA software, our website, and any related services (collectively, the "Services").
 
@@ -31,21 +31,21 @@ This license is granted for the **lifetime of the purchased major version**. Fut
 
 ### 3.1 Single-Device Policy
 
-Each license key ("Key") is **cryptographically bound to a single device** using a hardware identifier (HWID). This means:
+Each license key ("Key") is **bound to a single device** using a one-way cryptographic hash of a hardware identifier (HWID). This means:
 
 - ✅ Your Key will **only work** on the first device it is activated on;
 - ❌ Attempting to use the same Key on a second device will result in **activation failure**;
 - ❌ Sharing, publishing, or transferring your Key to another person is **strictly prohibited**;
-- ❌ Using virtual machines, emulators, or spoofing tools to bypass device binding is **prohibited**.
+- ❌ Using virtual machines, emulators, or spoofing tools **in order to bypass** device binding is **prohibited**. Running YUNA normally inside a virtual environment on your own single device is not a violation.
 
 ### 3.2 Changing Devices
 
 If you need to transfer your license to a **new device** (e.g., new PC, hardware upgrade, or replacement), you must:
 
-1. **Contact our support team** at **cherguihamid88@gmail.com** with:
+1. **Contact our support team** at **code7kjt@proton.me** with:
    - Your original license key;
    - The reason for the transfer;
-   - Proof of purchase (order ID or transaction hash).
+   - Proof of purchase (PayPal transaction ID or USDT transaction hash).
 2. Wait for **manual approval** from our team;
 3. Once approved, we will **deactivate** the old device and **reactivate** your Key on the new one.
 
@@ -80,20 +80,27 @@ You may **NOT**, under any circumstances:
 
 ### 5.1 Pricing
 
-All prices are listed in **USDT (TRC20 or BEP20)** and are subject to change without notice. The price you paid at the time of purchase is final for that version.
+Prices are listed in **US dollars (USD)** on our official website and are subject to change without notice. The price you paid at the time of purchase is final for that version.
 
 ### 5.2 Payment Methods
 
-Payment is accepted via **USDT cryptocurrency** only. We do not process credit cards, PayPal, or traditional banking methods at this time.
+Payment is accepted through the methods listed on our official website at the time of purchase, currently:
+
+- **PayPal** (card or PayPal balance);
+- **USDT cryptocurrency on the Ethereum network (ERC20) only.** Payments sent on any other network (including TRC20 or BEP20) or in any other token cannot be recovered and are not our responsibility.
+
+License keys are delivered manually after payment verification. Please keep your transaction ID or hash as proof of purchase.
 
 ### 5.3 Refund Policy
 
-Because YUNA is a **digital product delivered instantly**, all sales are **final and non-refundable**, except in the following cases:
+Because YUNA is a **digital product delivered after payment verification**, all sales are **final and non-refundable**, except in the following cases:
 
 - The Software is fundamentally non-functional on a machine that **meets the documented minimum requirements**, and our support team cannot resolve the issue;
 - A duplicate or erroneous charge occurred.
 
 Refund requests must be submitted within **14 days** of purchase, with proof of purchase and a detailed description of the issue.
+
+Please contact us before opening a payment dispute or chargeback, so that we can try to resolve the issue first.
 
 ---
 
@@ -107,7 +114,7 @@ We reserve the right to **revoke your license without refund** if you:
 - Use the Software for illegal purposes;
 - Engage in abusive behavior toward our support team.
 
-Revocation will be communicated via email, and your Key will be deactivated on our license server.
+Revocation will be communicated via email or Discord, and your Key will be deactivated on our license server.
 
 ---
 
@@ -118,16 +125,15 @@ Revocation will be communicated via email, and your Key will be deactivated on o
 YUNA is designed with privacy as a core principle. The Software:
 
 - **Does NOT collect** your conversations, files, or personal data;
-- **Does NOT send** any content to the cloud;
-- **Only communicates** with our license server during activation and periodic verification (transmitting only: license key, device HWID).
-
+- **Does NOT send** your conversations or content to our servers. The only exception is when you choose to connect an external cloud AI provider (see Section 7.3), in which case your prompts are sent directly to that provider and not to us;
+- **Only communicates** with our license server during activation and periodic verification, transmitting only your license key and a one-way hash of a hardware identifier (the original identifier is never sent). As with any internet connection.
 ### 7.2 Local Data
 
 All settings, conversations, and user data are stored **locally** on your device. We have no access to this data.
 
 ### 7.3 Third-Party Services
 
-If you configure YUNA to use external AI providers (e.g., OpenAI, Anthropic), your interactions with those services are governed by their own terms and privacy policies.
+If you configure YUNA to use external AI providers (e.g., OpenAI, Anthropic, DeepSeek, Google Gemini, Groq), your prompts and related request data are sent to the provider you select, and your interactions with those services are governed by their own terms and privacy policies. Cloud provider usage fees, if any, are separate from the YUNA license price.
 
 ---
 
@@ -139,17 +145,14 @@ We provide **free updates** within the purchased major version (e.g., all 1.x.x 
 
 ### 8.2 Support
 
-Support is provided via:
+- **BASIC license holders:** community support via our Discord server, best effort, no guaranteed response time;
+- **PRO license holders:** direct support via email or Discord, with a response within **24 hours**.
 
-- **Discord Community:** https://discord.gg/vkmP6uKy7
-- **Email:** cherguihamid88@gmail.com
+Support channels:
+
+- **Discord Community:** https://discord.gg/ARg6yujhdc
+- **Email:** code7kjt@proton.me
 - **YouTube:** https://www.youtube.com/@code7kjt
-
-**Response times:**
-
-- **PRO license holders:** within 24 hours;
-- **BASIC license holders:** within 72 hours;
-- **Community support:** best effort, no guarantee.
 
 ---
 
@@ -182,7 +185,9 @@ OUR TOTAL LIABILITY UNDER THESE TERMS SHALL NOT EXCEED THE AMOUNT YOU PAID FOR T
 
 ## 11. Intellectual Property
 
-All rights, title, and interest in YUNA — including code, design, Live2D models, artwork, and trademarks — remain the **exclusive property of Code-7**.
+All rights in the YUNA application itself, including its original source code, interface design, branding, and original artwork, remain the property of Code-7.
+
+**Third-party components.** The Live2D character models included in YUNA are not owned by Code-7. They are third-party assets made available free of charge for commercial use, subject to modification and integration into software, and are used and modified in accordance with their respective licenses. Code-7 claims no ownership of these models. Live2D and related names are trademarks of their respective owners, and other third-party libraries and assets remain subject to their own licenses.
 
 "YUNA" and the YUNA logo are trademarks of Code-7. You may not use them without prior written permission.
 
@@ -222,8 +227,8 @@ Any disputes arising from these Terms shall be resolved exclusively in the court
 
 For questions, support, or legal inquiries:
 
-- 📧 **Email:** cherguihamid88@gmail.com
-- 💬 **Discord:** https://discord.gg/vkmP6uKy7
+- 📧 **Email:** code7kjt@proton.me
+- 💬 **Discord:** https://discord.gg/ARg6yujhdc
 - 📺 **YouTube:** https://www.youtube.com/@code7kjt
 
 ---
