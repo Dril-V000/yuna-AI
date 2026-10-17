@@ -19,7 +19,7 @@ Subject to these Terms and payment of the applicable fee, Code-7 grants you a li
 
 The license permits personal use and use in personal content creation, including monetized videos and livestreams, provided that you do not redistribute, resell, sublicense, or commercially exploit the Software itself.
 
-The license includes free updates within the purchased major version (for example, version 1.x). Future major versions may require a separate license.
+The license includes free updates within the purchased major version (for example, version 1.x).
 
 The license remains valid for the lifetime of the purchased major version, subject to these Terms.
 
