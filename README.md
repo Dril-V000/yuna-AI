@@ -71,12 +71,12 @@ Getting started with YUNA is simple. The app guides you through the setup proces
 
 1. **Download YUNA** from the [official v1.2 release page](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v).
 2. **Extract the downloaded archive** to a folder on your PC.
-3. **Launch `YUNA.exe`** and follow the on-screen instructions.
-4. **Install Ollama:** if Ollama is not installed, YUNA automatically opens the official Ollama download page so you can install it.
-5. **Choose your AI model:** YUNA displays a list of available local AI models.
-6. **Automatic model download:** select a model, and YUNA downloads it automatically for you.
-7. **Start chatting!** Once setup is complete, enjoy voice conversations with your animated AI companion.
-
+3. **Launch `YUNA.exe`** .
+4. **Enter your license key** to activate YUNA.
+5. **Install Ollama:** If Ollama is not installed, YUNA automatically opens the official Ollama download page so you can install it.
+6. **Choose your AI model:** YUNA displays a list of available local AI models.
+7. **Download your model:** Select a model, and YUNA downloads it automatically.
+8. **Start chatting!** Enjoy voice conversations with your animated AI companion.
 ### 🤖 Recommended Local AI Models
 
 | Model | Best For |
