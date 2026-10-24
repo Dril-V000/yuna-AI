@@ -5,9 +5,9 @@
 [![Version](https://img.shields.io/badge/version-1.2-64b5f6?style=for-the-badge)](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](./LICENSE)
-[![Price](https://img.shields.io/badge/price-from%20%2410-34d399?style=for-the-badge)](https://dril-v000.github.io/yuna-website/)
+[![Price](https://img.shields.io/badge/price-from%20%2410-34d399?style=for-the-badge)](https://yunaai.online/)
 
-**[🌐 Website](https://dril-v000.github.io/yuna-website/) · [⬇️ Download v1.2](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v) · [💬 Discord](https://discord.gg/ARg6yujhdc) · [▶️ YouTube](https://www.youtube.com/@code7kjt)**
+**[🌐 Website](https://yunaai.online/) · [⬇️ Download v1.2](https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v) · [💬 Discord](https://discord.gg/ARg6yujhdc) · [▶️ YouTube](https://www.youtube.com/@code7kjt)**
 
 ---
 
@@ -148,7 +148,7 @@ YUNA uses a one-time payment model.
 
 No recurring YUNA subscription or renewal fee. Cloud AI API fees, if applicable, are separate.
 
-**[Visit the official website to purchase YUNA](https://dril-v000.github.io/yuna-website/)**
+**[Visit the official website to purchase YUNA](https://yunaai.online/)**
 
 Follow the website's current payment instructions. License keys are delivered after payment verification.
 
@@ -186,7 +186,7 @@ Visit the [Discord community](https://discord.gg/ARg6yujhdc). When reporting an 
 
 ## 🔗 Links
 
-- **Website:** https://dril-v000.github.io/yuna-website/
+- **Website:** https://yunaai.online/
 - **Latest release:** https://github.com/Dril-V000/yuna-AI/releases/tag/1.2v
 - **Discord:** https://discord.gg/ARg6yujhdc
 - **YouTube:** https://www.youtube.com/@code7kjt
