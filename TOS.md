@@ -121,7 +121,7 @@ Any refund eligibility will be determined in accordance with applicable law and 
 
 YUNA is designed to keep your conversations and personal files on your device when using local features.
 
-For license activation and verification, the Software may transmit your license key and a one-way cryptographic hash derived from a hardware identifier to our licensing service. The original hardware identifier is not intended to be transmitted.
+For license activation and verification, the Software may transmit your license key, a one-way cryptographic hash derived from a hardware identifier, and the IP address associated with the activation or verification request to our licensing service. The HWID-derived hash is stored in protected, encrypted form and is used for device binding, license validation, and security. The original hardware identifier is not intended to be transmitted or stored as plain text. Access to license records is restricted to authorized personnel and systems; these records are not publicly accessible. See our [Privacy Policy](https://yunaai.online/privacy/) for details.
 
 We do not intentionally collect or receive your local conversations, files, or other local content through the licensing service.
 
@@ -141,7 +141,7 @@ Review the selected provider's policies before sending sensitive information.
 
 ### 7.4 Contact and Privacy Requests
 
-For questions about privacy or license-related data, contact **code7kjt@proton.me**.
+For questions about privacy or license-related data, contact **hello@yunaai.online**. See our [Privacy Policy](https://yunaai.online/privacy/) for details.
 
 ## 8. Updates and Support
 
@@ -159,7 +159,7 @@ We do not guarantee a particular release schedule or that every update will supp
 Support channels:
 
 - **Discord:** https://discord.gg/ARg6yujhdc
-- **Email:** code7kjt@proton.me
+- **Email:** hello@yunaai.online
 - **YouTube:** https://www.youtube.com/@code7kjt
 
 ## 9. Disclaimer of Warranties
