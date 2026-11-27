@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Last Updated:** October 17, 2026  
-**Effective Date:** October 17, 2026
+**Last Updated:** November 27, 2026  
+**Effective Date:** November 27, 2026
 
 Welcome to **YUNA** ("the Software"), operated by **Code-7** ("we", "us", or "our"). These Terms of Service ("Terms") govern your access to and use of YUNA, our website, and related services (collectively, the "Services").
 
@@ -19,7 +19,11 @@ Subject to these Terms and payment of the applicable fee, Code-7 grants you a li
 
 The license permits personal use and use in personal content creation, including monetized videos and livestreams, provided that you do not redistribute, resell, sublicense, or commercially exploit the Software itself.
 
-The license includes free updates within the purchased major version (for example, version 1.x).
+The license includes free updates, bug fixes, improvements, and new features released within the purchased major version (for example, version 1.x).
+
+A newer major version (for example, version 2.x) may be offered as a separate paid upgrade and may require a separate license. Whether a major version upgrade is paid is at Code-7's discretion.
+
+Your license permanently entitles you to use the version and major version covered by your purchase. You may keep using that version indefinitely with all features included in it, without being required to upgrade or pay for a newer major version. Choosing not to upgrade will not deactivate your licensed version or remove, disable, or restrict its included features, subject to these Terms.
 
 The license remains valid for the lifetime of the purchased major version, subject to these Terms.
 
@@ -145,9 +149,13 @@ For questions about privacy or license-related data, contact **hello@yunaai.onli
 
 ## 8. Updates and Support
 
-### 8.1 Updates
+### 8.1 Updates and Major Versions
 
-Free updates are provided within the purchased major version, subject to availability. Major version upgrades may require a separate license.
+All updates released within the major version covered by your license are free of charge. This includes minor and patch releases, bug fixes, improvements, and new features (for example, YUNA 1.0 through 1.x for a YUNA 1.x license), subject to availability.
+
+A different major version (for example, YUNA 2.x) may be offered as a paid upgrade and may require purchasing a separate license. Code-7 decides whether a new major version is free or paid and will communicate the applicable terms when it is released.
+
+**Keeping Your Purchased Version:** You are not required to upgrade to a newer major version. You may continue using the version covered by your existing license indefinitely, with all features included in that version, without an additional payment. Declining an upgrade will not deactivate your existing licensed version or remove, disable, or restrict its included features.
 
 We do not guarantee a particular release schedule or that every update will support every older hardware configuration.
 
